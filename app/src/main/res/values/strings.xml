@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Laundry day - Continuing tasks</string>
+    <string name="empty_title">please add a title</string>
+    <string name="empty_duration">Please enter duration</string>
+</resources>
